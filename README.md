@@ -18,7 +18,7 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a vida dos jogadores de **Euro Truck Simulator 2 (ETS2)** que utilizam mods de som. Com uma interface amigável e moderna, ele permite que você instale plugins, ative o console do jogo, troque os roncos dos caminhões e ajuste os volumes do FMOD diretamente do seu perfil local, tudo em um só lugar.
+O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a vida dos jogadores de **Euro Truck Simulator 2 (ETS2)** que utilizam mods de som. Com uma interface amigável e moderna, ele permite que você instale plugins, ative o console do jogo, troque os sons dos motores dos caminhões e ajuste os volumes do FMOD diretamente do seu perfil local, tudo em um só lugar.
 
 ### ✨ Principais Recursos
 - **Instalação Automática de Plugins:** Instale o plugin FMOD necessário com apenas um clique.
