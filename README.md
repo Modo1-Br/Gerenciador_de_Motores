@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚛 Gerenciador de Motores (Engine Manager)</h1>
+  <h1>🚛 Gerenciador de Motores ETS-2 (Engine Manager)</h1>
   <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no Euro Truck Simulator 2.</p>
   <p><i>A complete tool to manage engine sounds and FMOD volumes in Euro Truck Simulator 2.</i></p>
 
