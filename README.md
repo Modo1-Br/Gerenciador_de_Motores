@@ -40,13 +40,13 @@ The **Engine Manager** is a desktop application designed to make life easier for
 
 ## 🤝 Créditos e Agradecimentos / Credits and Acknowledgments
 
-Este projeto utiliza o incrível **Plugin FMOD para ETS2/ATS**, criado por [dariowouters](https://github.com/dariowouters). 
+Este projeto utiliza o incrível **Plugin FMOD para ETS2/ATS**, criado por [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
 O Gerenciador de Motores atua como uma interface visual (GUI) avançada para facilitar a configuração e o uso do plugin desenvolvido por ele.
 
-*This project utilizes the amazing **FMOD Plugin for ETS2/ATS**, created by [dariowouters](https://github.com/dariowouters). 
+*This project utilizes the amazing **FMOD Plugin for ETS2/ATS**, created by [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
 The Engine Manager acts as an advanced graphical user interface (GUI) to make configuring and using his plugin much easier.*
 
-**Plugin Repository:** [dariowouters/ts2-fmod-plugin](https://github.com/dariowouters/ts2-fmod-plugin)
+**Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
 
 ---
 
@@ -54,7 +54,7 @@ The Engine Manager acts as an advanced graphical user interface (GUI) to make co
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-O plugin FMOD utilizado também é distribuído sob a Licença MIT:
+O plugin FMOD utilizado também é distribuído sob a [Licença MIT](https://github.com/dariowouters/ts-fmod-plugin?tab=MIT-1-ov-file):
 > **The MIT License (MIT) - Copyright (c) 2020 dariowouters**
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software...
