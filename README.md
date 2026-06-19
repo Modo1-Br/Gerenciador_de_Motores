@@ -23,7 +23,7 @@ O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a
 ### ✨ Principais Recursos
 - **Instalação Automática de Plugins:** Instale o plugin FMOD necessário com apenas um clique.
 - **Ativação do Console:** Habilite o console de desenvolvedor do ETS2 de forma simples.
-- **Gerenciamento de Roncos:** Selecione, ouça uma prévia e aplique diferentes mods de som de motor.
+- **Gerenciamento dos sons dos Motores:** Selecione, ouça uma prévia e aplique diferentes mods de som de motor.
 - **Ajuste de Volumes FMOD (In-Game):** Altere os volumes do motor, escapamento, turbo e interior diretamente pela interface.
 - **Sincronização de Perfis Locais:** Salve suas configurações de volume diretamente nos perfis locais do jogo.
 - **Interface Bilíngue:** Suporte completo para Português (PT-BR) e Inglês (US) com troca instantânea.
