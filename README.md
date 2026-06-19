@@ -5,7 +5,13 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Substitua o link abaixo pela sua imagem -->
+  <img src="Gerenciador_1.png" alt="Tela do Programa" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
 </div>
 
 <br>
@@ -48,13 +54,4 @@ The Engine Manager acts as an advanced graphical user interface (GUI) to make co
 
 **Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
 
----
 
-## 📜 Licença / License
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-O plugin FMOD utilizado também é distribuído sob a [Licença MIT](https://github.com/dariowouters/ts-fmod-plugin?tab=MIT-1-ov-file):
-> **The MIT License (MIT) - Copyright (c) 2020 dariowouters**
-> 
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software...
