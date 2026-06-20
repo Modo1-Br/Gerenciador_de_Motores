@@ -18,11 +18,11 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a vida dos jogadores de **Euro Truck Simulator 2 (ETS2)** que utilizam mods de som. Com uma interface amigável e moderna, ele permite que você instale plugins, ative o console do jogo, troque os sons dos motores dos caminhões e ajuste os volumes do FMOD diretamente do seu perfil local, tudo em um só lugar.
+O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a vida dos jogadores de **Euro Truck Simulator 2 (ETS-2)** que utilizam mods de som. Com uma interface amigável e moderna, ele permite que você instale plugins, ative o console do jogo, troque os sons dos motores dos caminhões e ajuste os volumes do FMOD diretamente do seu perfil local, tudo em um só lugar.
 
 ### ✨ Principais Recursos
 - **Instalação Automática de Plugins:** Instale o plugin FMOD necessário com apenas um clique.
-- **Ativação do Console:** Habilite o console de desenvolvedor do ETS2 de forma simples.
+- **Ativação do Console:** Habilite o console de desenvolvedor do ETS-2 de forma simples.
 - **Gerenciamento dos sons dos Motores:** Selecione, ouça uma prévia e aplique diferentes mods de som de motor.
 - **Ajuste de Volumes FMOD (In-Game):** Altere os volumes do motor, escapamento, turbo e interior diretamente pela interface.
 - **Sincronização de Perfis Locais:** Salve suas configurações de volume diretamente nos perfis locais do jogo.
@@ -32,11 +32,11 @@ O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a
 
 ## 🇺🇸 About the Project (About in English)
 
-The **Engine Manager** is a desktop application designed to make life easier for **Euro Truck Simulator 2 (ETS2)** players who use sound mods. With a friendly and modern interface, it allows you to install plugins, activate the game console, swap truck sounds, and adjust FMOD volumes directly from your local profile, all in one place.
+The **Engine Manager** is a desktop application designed to make life easier for **Euro Truck Simulator 2 (ETS-2)** players who use sound mods. With a friendly and modern interface, it allows you to install plugins, activate the game console, swap truck sounds, and adjust FMOD volumes directly from your local profile, all in one place.
 
 ### ✨ Key Features
 - **Automatic Plugin Installation:** Install the required FMOD plugin with just one click.
-- **Console Activation:** Enable the ETS2 developer console effortlessly.
+- **Console Activation:** Enable the ETS-2 developer console effortlessly.
 - **Engine Sound Management:** Select, preview, and apply different engine sound mods.
 - **FMOD Volume Adjustment (In-Game):** Change engine, exhaust, turbo, and interior volumes directly from the interface.
 - **Local Profile Synchronization:** Save your volume configurations directly to the game's local profiles.
