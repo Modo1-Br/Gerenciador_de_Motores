@@ -46,10 +46,10 @@ The **Engine Manager** is a desktop application designed to make life easier for
 
 ## 🤝 Créditos e Agradecimentos / Credits and Acknowledgments
 
-Este projeto utiliza o incrível **Plugin FMOD para ETS2/ATS**, criado por [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
+Este projeto utiliza o incrível **Plugin FMOD para ETS-2/ATS**, criado por [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
 O Gerenciador de Motores atua como uma interface visual (GUI) avançada para facilitar a configuração e o uso do plugin desenvolvido por ele.
 
-*This project utilizes the amazing **FMOD Plugin for ETS2/ATS**, created by [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
+*This project utilizes the amazing **FMOD Plugin for ETS-2/ATS**, created by [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
 The Engine Manager acts as an advanced graphical user interface (GUI) to make configuring and using his plugin much easier.*
 
 **Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
