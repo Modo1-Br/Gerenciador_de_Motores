@@ -19,6 +19,7 @@ Este software atua como uma interface gráfica independente e utiliza internamen
 
 3. ISENÇÃO DE RESPONSABILIDADE
 Este software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo. Os criadores não se responsabilizam por quaisquer danos, banimentos em plataformas online, perda de dados ou problemas no sistema decorrentes do uso ou da incapacidade de usar este software.
+O pleno funcionamento deste software depende do "ts-fmod-plugin". Caso atualizações do jogo ("Euro Truck Simulator 2") inutilizem este plugin de terceiros, o criador deste Gerenciador não tem a obrigação legal de prover correções, atualizações ou reembolsos pelas licenças da interface gráfica (GUI).
 
 =============================================================================
 
@@ -42,3 +43,4 @@ This software acts as an independent graphical interface and internally utilizes
 
 3. DISCLAIMER OF LIABILITY
 This software is provided "as is", without warranties of any kind. The creators are not liable for any damages, bans on online platforms, data loss, or system issues arising from the use or inability to use this software.
+The full functionality of this software relies on the "ts-fmod-plugin". If game updates ("Euro Truck Simulator 2") render this third-party plugin unusable, the creator of this Manager has no legal obligation to provide fixes, updates, or refunds for the graphical interface (GUI) licenses.
