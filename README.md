@@ -21,29 +21,27 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Motores** é um aplicativo desktop projetado para facilitar a vida dos jogadores de **Euro Truck Simulator 2 (ETS-2)** que utilizam mods de som. Com uma interface amigável e moderna, ele permite que você instale plugins, ative o console do jogo, troque os sons dos motores dos caminhões e ajuste os volumes do FMOD diretamente do seu perfil local, tudo em um só lugar.
+O **Gerenciador de Motores** evoluiu de uma simples ferramenta para um aplicativo desktop comercial robusto projetado para os jogadores de **Euro Truck Simulator 2 (ETS-2)**. Com uma interface moderna, ele permite gerenciar sons, instalar plugins e ajustar volumes do FMOD, tudo isso rodando sob uma infraestrutura segura na nuvem.
 
 ### ✨ Principais Recursos
-- **Instalação Automática de Plugins:** Instale o plugin FMOD necessário com apenas um clique.
-- **Ativação do Console:** Habilite o console de desenvolvedor do ETS-2 de forma simples.
-- **Gerenciamento dos sons dos Motores:** Selecione, ouça uma prévia e aplique diferentes mods de som de motor.
-- **Ajuste de Volumes FMOD (In-Game):** Altere os volumes do motor, escapamento, turbo e interior diretamente pela interface.
-- **Sincronização de Perfis Locais:** Salve suas configurações de volume diretamente nos perfis locais do jogo.
-- **Interface Bilíngue:** Suporte completo para Português (PT-BR) e Inglês (US) com troca instantânea.
+- 🛡️ **Sistema Anti-Cheat e Nuvem:** Validação de Hardware ID (HWID) integrada com banco de dados Supabase para prevenir uso não autorizado e manipulação de memória.
+- 🎨 **Interface Premium e Bilíngue:** Suporte completo para Português (PT-BR) e Inglês (US) com troca instantânea, além de temas dinâmicos (Claro/Escuro).
+- ⚙️ **Instalação Automática:** Instale a .dll do plugin FMOD com um clique, graças ao módulo de detecção inteligente das pastas do jogo.
+- 🎛️ **Gerenciamento de Áudio:** Selecione mods de som, ouça prévias e altere os volumes do motor, escapamento e turbo, sincronizando diretamente com seus perfis locais.
+- ⚖️ **Propriedade Intelectual:** Aplicativo de Código Fechado (Proprietário) blindado contra engenharia reversa.
 
 ---
 
 ## 🇺🇸 About the Project (About in English)
 
-The **Engine Manager** is a desktop application designed to make life easier for **Euro Truck Simulator 2 (ETS-2)** players who use sound mods. With a friendly and modern interface, it allows you to install plugins, activate the game console, swap truck sounds, and adjust FMOD volumes directly from your local profile, all in one place.
+The **Engine Manager** has evolved from a simple tool into a robust commercial desktop application designed for **Euro Truck Simulator 2 (ETS-2)** players. With a modern interface, it allows you to manage sounds, install plugins, and adjust FMOD volumes, all running under a secure cloud infrastructure.
 
 ### ✨ Key Features
-- **Automatic Plugin Installation:** Install the required FMOD plugin with just one click.
-- **Console Activation:** Enable the ETS-2 developer console effortlessly.
-- **Engine Sound Management:** Select, preview, and apply different engine sound mods.
-- **FMOD Volume Adjustment (In-Game):** Change engine, exhaust, turbo, and interior volumes directly from the interface.
-- **Local Profile Synchronization:** Save your volume configurations directly to the game's local profiles.
-- **Bilingual Interface:** Full support for Portuguese (PT-BR) and English (US) with instant switching.
+- 🛡️ **Anti-Cheat & Cloud System:** Hardware ID (HWID) validation integrated with a Supabase database to prevent unauthorized access and memory tampering.
+- 🎨 **Premium Bilingual Interface:** Full support for Portuguese (PT-BR) and English (US) with instant switching, plus dynamic Dark/Light themes.
+- ⚙️ **Automatic Installation:** Install the required FMOD .dll plugin with one click, powered by a smart game folder detection module.
+- 🎛️ **Audio Management:** Select sound mods, listen to previews, and adjust engine, exhaust, and turbo volumes, syncing directly to your local profiles.
+- ⚖️ **Intellectual Property:** Closed Source (Proprietary) application shielded against reverse engineering.
 
 ---
 
