@@ -5,6 +5,9 @@
 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://customtkinter.tomschimansky.com/" target="_blank"><img src="https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows/win32/api/" target="_blank"><img src="https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows API" /></a>
+  <a href="https://www.json.org/" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" /></a>
 </div>
 
 <br>
