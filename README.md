@@ -3,6 +3,9 @@
   <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no Euro Truck Simulator 2.</p>
   <p><i>A complete tool to manage engine sounds and FMOD volumes in Euro Truck Simulator 2.</i></p>
 
+  <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/ACESSE_O_SITE_OFICIAL_DA_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
+  <br><br>
+
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://customtkinter.tomschimansky.com/" target="_blank"><img src="https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
