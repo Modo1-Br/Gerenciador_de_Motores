@@ -1,45 +1,44 @@
-Licença MIT (MIT License)
+LICENÇA DE SOFTWARE PROPRIETÁRIO - TODOS OS DIREITOS RESERVADOS
+(PROPRIETARY SOFTWARE LICENSE - ALL RIGHTS RESERVED)
 
-Copyright (c) 2026 Modo 1
+Copyright (c) 2026 Modo 1. Todos os direitos reservados.
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
-deste software e dos arquivos de documentação associados (o "Software"), para
-lidar no Software sem restrição, incluindo, sem limitação, os direitos de usar,
-copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
-cópias do Software, e de permitir às pessoas a quem o Software é fornecido que
-o façam, sujeito às seguintes condições:
+AVISO LEGAL:
+Este software ("Gerenciador de Motores ETS-2") é de código fechado e propriedade exclusiva de "Modo 1".
 
-O aviso de copyright acima e este aviso de permissão devem ser incluídos em
-todas as cópias ou partes substanciais do Software.
+1. RESTRIÇÕES DE USO
+É expressamente PROIBIDO:
+- Copiar, distribuir, republicar ou compartilhar este software sem autorização prévia.
+- Modificar, adaptar, traduzir ou criar obras derivadas baseadas neste software.
+- Descompilar, fazer engenharia reversa, desmontar ou tentar extrair o código-fonte deste software.
+- Burlar, remover ou adulterar os sistemas de segurança, telemetria (Anti-Cheat) e validação de HWID integrados.
+- Utilizar o software para fins comerciais sem licenciamento apropriado.
 
-O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
-IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO,
-ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO INFRAÇÃO. EM NENHUM CASO OS
-AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER
-RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO,
-DELITO OU DE OUTRA FORMA, DECORRENTE DE, OU EM CONEXÃO COM O SOFTWARE OU O
-USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+2. COMPONENTES DE TERCEIROS
+Este software atua como uma interface gráfica independente e utiliza internamente o "ts-fmod-plugin", que é regido pela Licença MIT (Copyright (c) 2020 dariowouters). Os direitos do plugin FMOD pertencem ao seu respectivo criador. A licença MIT aplica-se EXCLUSIVAMENTE ao plugin de terceiros, e NÃO ao código-fonte, interface, banco de dados ou binários do "Gerenciador de Motores ETS-2".
+
+3. ISENÇÃO DE RESPONSABILIDADE
+Este software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo. Os criadores não se responsabilizam por quaisquer danos, banimentos em plataformas online, perda de dados ou problemas no sistema decorrentes do uso ou da incapacidade de usar este software.
 
 =============================================================================
 
-MIT License
+PROPRIETARY SOFTWARE LICENSE - ALL RIGHTS RESERVED
 
-Copyright (c) 2026 Modo 1
+Copyright (c) 2026 Modo 1. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+LEGAL NOTICE:
+This software ("ETS-2 Engine Manager") is closed-source and the exclusive property of "Modo 1".
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. USE RESTRICTIONS
+It is expressly FORBIDDEN to:
+- Copy, distribute, republish, or share this software without prior authorization.
+- Modify, adapt, translate, or create derivative works based on this software.
+- Decompile, reverse engineer, disassemble, or attempt to extract the source code of this software.
+- Bypass, remove, or tamper with the integrated security systems, telemetry (Anti-Cheat), and HWID validation.
+- Use the software for commercial purposes without proper licensing.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. THIRD-PARTY COMPONENTS
+This software acts as an independent graphical interface and internally utilizes the "ts-fmod-plugin", which is governed by the MIT License (Copyright (c) 2020 dariowouters). The rights to the FMOD plugin belong to its respective creator. The MIT license applies EXCLUSIVELY to the third-party plugin, and NOT to the source code, interface, database, or binaries of the "ETS-2 Engine Manager".
+
+3. DISCLAIMER OF LIABILITY
+This software is provided "as is", without warranties of any kind. The creators are not liable for any damages, bans on online platforms, data loss, or system issues arising from the use or inability to use this software.
