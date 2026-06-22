@@ -6,11 +6,12 @@
   <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/ACESSE_O_SITE_OFICIAL_DA_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
   <br><br>
 
-  <h2>⬇️ DOWNLOAD DO PROGRAMA</h2>
+  <h2>⬇️ DOWNLOAD / BAIXAR PROGRAMA</h2>
   <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_Motores.zip" target="_blank">
-    <img src="https://img.shields.io/badge/BAIXAR_O_GERENCIADOR_AGORA-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Agora" />
+    <img src="https://img.shields.io/badge/DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
-  <p><b>Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
+  <p><b>🇧🇷 Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
+  <p><b>🇺🇸 Instructions:</b> Click the button above to download. After downloading, simply <b>unzip the .zip file</b> and run the program (no installation required).</p>
   <br>
 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
