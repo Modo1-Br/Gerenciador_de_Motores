@@ -6,6 +6,13 @@
   <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/ACESSE_O_SITE_OFICIAL_DA_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
   <br><br>
 
+  <h2>⬇️ DOWNLOAD DO PROGRAMA</h2>
+  <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_Motores.zip" target="_blank">
+    <img src="https://img.shields.io/badge/BAIXAR_O_GERENCIADOR_AGORA-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Agora" />
+  </a>
+  <p><b>Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
+  <br>
+
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://customtkinter.tomschimansky.com/" target="_blank"><img src="https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
@@ -57,16 +64,4 @@ O Gerenciador de Motores atua como uma interface visual (GUI) avançada para fac
 The Engine Manager acts as an advanced graphical user interface (GUI) to make configuring and using his plugin much easier.*
 
 **Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
-
----
-
-<div align="center">
-  <h2>⬇️ Download do Programa</h2>
-  <p>Para baixar a versão mais recente e pronta para uso, clique no botão abaixo:</p>
-  
-  <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest" target="_blank">
-    <img src="https://img.shields.io/badge/BAIXAR_O_GERENCIADOR_AGORA-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Agora" />
-  </a>
-  <p><i>Após o download, basta extrair a pasta e executar o programa.</i></p>
-</div>
 
