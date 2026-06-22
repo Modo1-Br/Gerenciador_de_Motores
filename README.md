@@ -58,4 +58,15 @@ The Engine Manager acts as an advanced graphical user interface (GUI) to make co
 
 **Plugin Repository:** [dariowouters/ts-fmod-plugin](https://github.com/dariowouters/ts-fmod-plugin/releases)
 
+---
+
+<div align="center">
+  <h2>⬇️ Download do Programa</h2>
+  <p>Para baixar a versão mais recente e pronta para uso, clique no botão abaixo:</p>
+  
+  <a href="COLOQUE_O_LINK_DIRETO_AQUI_DO_SEU_ZIP_OU_EXE" target="_blank">
+    <img src="https://img.shields.io/badge/BAIXAR_O_GERENCIADOR_AGORA-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Agora" />
+  </a>
+  <p><i>Após o download, basta extrair a pasta e executar o programa.</i></p>
+</div>
 
