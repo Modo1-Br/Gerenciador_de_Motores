@@ -8,7 +8,7 @@
 
   <h2>⬇️ DOWNLOAD / BAIXAR PROGRAMA</h2>
   <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_Motores.zip" target="_blank">
-    <img src="https://img.shields.io/badge/DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
+    <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
   <p><b>🇧🇷 Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
   <p><b>🇺🇸 Instructions:</b> Click the button above to download. After downloading, simply <b>unzip the .zip file</b> and run the program (no installation required).</p>
