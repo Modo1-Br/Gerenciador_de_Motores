@@ -6,7 +6,7 @@
   <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
   <br><br>
 
-  <h2>⬇️ BAIXAR PROGRAMA / DOWNLOAD</h2>
+  <h2>⬇️ BAIXAR AGORA / DOWNLOAD NOW</h2>
   <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_Motores.zip" target="_blank">
     <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
