@@ -24,8 +24,9 @@
 <br>
 
 <div align="center">
-  <!-- Substitua o link abaixo pela sua imagem -->
-  <img src="Gerenciador_1.png" alt="Tela do Programa" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
+  <img src="Gerenciador_1.png" alt="Tela Principal" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
+  <br><br>
+  <img src="Gerenciador_2.png" alt="Tela de Volumes" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
 </div>
 
 <br>
