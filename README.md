@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>🚛 Gerenciador de Motores ETS-2 (Engine Manager)</h1>
-  <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no Euro Truck Simulator 2.</p>
-  <p><i>A complete tool to manage engine sounds and FMOD volumes in Euro Truck Simulator 2.</i></p>
+  <h1>🚛 Gerenciador de Motores (ATS / ETS-2)</h1>
+  <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no American Truck Simulator e Euro Truck Simulator 2.</p>
+  <p><i>A complete tool to manage engine sounds and FMOD volumes in American Truck Simulator and Euro Truck Simulator 2.</i></p>
 
   <a href="https://modo1.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/SITE_OFICIAL_MODO1.APPS-1a73e8?style=for-the-badge" alt="Site Oficial" /></a>
   <br><br>
 
-  <h2>⬇️ BAIXAR AGORA / DOWNLOAD NOW</h2>
+  <h2>⬇️ DOWNLOAD / BAIXAR PROGRAMA</h2>
   <a href="https://github.com/Modo1-Br/Gerenciador_de_Motores/releases/latest/download/Gerenciador_Motores.zip" target="_blank">
     <img src="https://img.shields.io/badge/BAIXAR_AGORA_%2F_DOWNLOAD_NOW-1a73e8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" />
   </a>
-  <p><b>🇧🇷 Instruções:</b> Clique no botão acima para BAIXAR AGORA. Após Baixar, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
-  <p><b>🇺🇸 Instructions:</b> Click the button above to DOWNLOAD NOW. After downloading, simply <b>unzip the .zip file</b> and run the program (no installation required).</p>
+  <p><b>🇧🇷 Instruções:</b> Clique no botão acima para baixar. Após o download, basta <b>descompactar o arquivo .zip</b> e executar o programa (não precisa instalar).</p>
+  <p><b>🇺🇸 Instructions:</b> Click the button above to download. After downloading, simply <b>unzip the .zip file</b> and run the program (no installation required).</p>
   <br>
 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -32,27 +32,27 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Motores** evoluiu de uma simples ferramenta para um aplicativo desktop comercial robusto projetado para os jogadores de **Euro Truck Simulator 2 (ETS-2)**. Com uma interface moderna, ele permite gerenciar sons, instalar plugins e ajustar volumes do FMOD, tudo isso rodando sob uma infraestrutura segura na nuvem.
+O **Gerenciador de Motores** é o aplicativo definitivo para os jogadores de **American Truck Simulator (ATS)** e **Euro Truck Simulator 2 (ETS-2)** que buscam a melhor experiência sonora. Com uma interface moderna e amigável, ele permite gerenciar sons de motores, instalar plugins FMOD e ajustar volumes de forma rápida e segura.
 
 ### ✨ Principais Recursos
-- 🛡️ **Sistema Anti-Cheat e Nuvem:** Validação de Hardware ID (HWID) integrada com banco de dados Supabase para prevenir uso não autorizado e manipulação de memória.
-- 🎨 **Interface Premium e Bilíngue:** Suporte completo para Português (PT-BR) e Inglês (US) com troca instantânea, além de temas dinâmicos (Claro/Escuro).
-- ⚙️ **Instalação Automática:** Instale a .dll do plugin FMOD com um clique, graças ao módulo de detecção inteligente das pastas do jogo.
-- 🎛️ **Gerenciamento de Áudio:** Selecione mods de som, ouça prévias e altere os volumes do motor, escapamento e turbo, sincronizando diretamente com seus perfis locais.
-- ⚖️ **Propriedade Intelectual:** Aplicativo de Código Fechado (Proprietário) blindado contra engenharia reversa.
+- 🚚 **Suporte a Múltiplos Jogos:** Funciona perfeitamente com o American Truck Simulator e o Euro Truck Simulator 2. A troca de jogos é feita em um clique!
+- 🎛️ **Controle Total de Áudio:** Selecione os sons mais incríveis, ouça prévias e altere os volumes do motor, escapamento e turbo.
+- ⚙️ **Instalação Automática:** Esqueça processos complicados manuais! O programa encontra a pasta do seu jogo na Steam e instala o que for necessário automaticamente.
+- 🎨 **Interface Moderna e Bilíngue:** Design limpo e intuitivo com suporte completo para Português (PT-BR) e Inglês (US), além de temas dinâmicos (Claro/Escuro).
+- ☁️ **Atualizações pela Nuvem:** Suas licenças e atualizações são validadas de forma transparente na nuvem para garantir que você sempre tenha a melhor versão.
 
 ---
 
 ## 🇺🇸 About the Project (About in English)
 
-The **Engine Manager** has evolved from a simple tool into a robust commercial desktop application designed for **Euro Truck Simulator 2 (ETS-2)** players. With a modern interface, it allows you to manage sounds, install plugins, and adjust FMOD volumes, all running under a secure cloud infrastructure.
+The **Engine Manager** is the ultimate application for **American Truck Simulator (ATS)** and **Euro Truck Simulator 2 (ETS-2)** players seeking the best audio experience. With a modern and user-friendly interface, it allows you to easily manage engine sounds, install FMOD plugins, and adjust volumes safely and quickly.
 
 ### ✨ Key Features
-- 🛡️ **Anti-Cheat & Cloud System:** Hardware ID (HWID) validation integrated with a Supabase database to prevent unauthorized access and memory tampering.
-- 🎨 **Premium Bilingual Interface:** Full support for Portuguese (PT-BR) and English (US) with instant switching, plus dynamic Dark/Light themes.
-- ⚙️ **Automatic Installation:** Install the required FMOD .dll plugin with one click, powered by a smart game folder detection module.
-- 🎛️ **Audio Management:** Select sound mods, listen to previews, and adjust engine, exhaust, and turbo volumes, syncing directly to your local profiles.
-- ⚖️ **Intellectual Property:** Closed Source (Proprietary) application shielded against reverse engineering.
+- 🚚 **Multi-Game Support:** Works flawlessly with both American Truck Simulator and Euro Truck Simulator 2. Switch between games with a single click!
+- 🎛️ **Total Audio Control:** Select the most amazing sounds, listen to previews, and adjust engine, exhaust, and turbo volumes.
+- ⚙️ **Automatic Installation:** Forget complicated manual setups! The program automatically detects your Steam game folder and installs everything you need.
+- 🎨 **Modern Bilingual Interface:** Clean and intuitive design with full support for Portuguese (PT-BR) and English (US), plus dynamic Dark/Light themes.
+- ☁️ **Cloud Updates:** Your licenses and updates are seamlessly validated in the cloud to ensure you always have the best version.
 
 ---
 
