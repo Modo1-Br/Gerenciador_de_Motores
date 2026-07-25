@@ -31,6 +31,8 @@
   <img src="Gerenciador_3.png" alt="Mais Detalhes" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
   <br><br>
   <img src="Gerenciador_4.png" alt="Notificações e Segurança" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
+  <br><br>
+  <img src="Gerenciador_5.png" alt="Mais Informações" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
 </div>
 
 <br>
