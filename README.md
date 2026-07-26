@@ -63,6 +63,24 @@ The **Engine Manager** is the ultimate application for **American Truck Simulato
 
 ---
 
+## 🎥 Programa de Parcerias para Criadores / Content Creator Partnership
+
+**🇧🇷 Você é um Youtuber ou Streamer de ETS-2 / ATS?**
+Queremos ver o nosso software no seu canal! Teste o **Gerenciador de Motores** em um vídeo ou live e ganhe uma **Licença Vitalícia Oficial (Partner License)** de presente!
+Para evitar excesso de pedidos, temos algumas regrinhas básicas:
+- Seu canal/perfil deve ter foco em jogos de simulação (ETS-2/ATS).
+- Você deve gravar um vídeo review ou mostrar o uso do programa em uma live com engajamento real.
+- Entre em contato conosco através do nosso [Site Oficial](https://modo1.pythonanywhere.com/) com o link do seu vídeo para reivindicarmos sua chave vitalícia!
+
+**🇺🇸 Are you an ETS-2 / ATS Youtuber or Streamer?**
+We want to see our software on your channel! Showcase the **Engine Manager** in a video or live stream and receive a free **Official Lifetime Partner License** as a gift!
+To avoid spam, we have a few basic requirements:
+- Your channel/profile must be focused on simulation games (ETS-2/ATS).
+- You must record a video review or showcase the software during a stream with real engagement.
+- Contact us through our [Official Website](https://modo1.pythonanywhere.com/) with a link to your video to claim your lifetime key!
+
+---
+
 ## 🤝 Créditos e Agradecimentos / Credits and Acknowledgments
 
 Este projeto utiliza o incrível **Plugin FMOD para ETS-2/ATS**, criado por [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
