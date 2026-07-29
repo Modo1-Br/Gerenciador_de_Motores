@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚛 Gerenciador de Motores (ATS / ETS-2)</h1>
+  <h1>🚚 Gerenciador de Áudio (ATS / ETS-2)</h1>
   <p>Uma ferramenta completa para gerenciar sons de motores e volumes FMOD no American Truck Simulator e Euro Truck Simulator 2.</p>
   <p><i>A complete tool to manage engine sounds and FMOD volumes in American Truck Simulator and Euro Truck Simulator 2.</i></p>
 
@@ -39,7 +39,7 @@
 
 ## 🇧🇷 Sobre o Projeto (About in Portuguese)
 
-O **Gerenciador de Motores** é o aplicativo definitivo para os jogadores de **American Truck Simulator (ATS)** e **Euro Truck Simulator 2 (ETS-2)** que buscam a melhor experiência sonora. Com uma interface moderna e amigável, ele permite gerenciar sons de motores, instalar plugins FMOD e ajustar volumes de forma rápida e segura.
+O **Gerenciador de Áudio** é o aplicativo definitivo para os jogadores de **American Truck Simulator (ATS)** e **Euro Truck Simulator 2 (ETS-2)** que buscam a melhor experiência sonora. Com uma interface moderna e amigável, ele permite gerenciar sons de motores, instalar plugins FMOD e ajustar volumes de forma rápida e segura.
 
 ### ✨ Principais Recursos
 - 🚚 **Suporte a Múltiplos Jogos:** Funciona perfeitamente com o American Truck Simulator e o Euro Truck Simulator 2. A troca de jogos é feita em um clique!
@@ -66,7 +66,7 @@ The **Engine Manager** is the ultimate application for **American Truck Simulato
 ## 🎥 Programa de Parcerias para Criadores / Content Creator Partnership
 
 **🇧🇷 Você é um Youtuber ou Streamer de ETS-2 / ATS?**
-Queremos ver o nosso software no seu canal! Teste o **Gerenciador de Motores** em um vídeo ou live e ganhe uma **Licença Vitalícia Oficial (Partner License)** de presente!
+Queremos ver o nosso software no seu canal! Teste o **Gerenciador de Áudio** em um vídeo ou live e ganhe uma **Licença Vitalícia Oficial (Partner License)** de presente!
 Para evitar excesso de pedidos, temos algumas regrinhas básicas:
 - Seu canal/perfil deve ter foco em jogos de simulação (ETS-2/ATS).
 - Você deve gravar um vídeo review ou mostrar o uso do programa em uma live com engajamento real.
@@ -84,7 +84,7 @@ To avoid spam, we have a few basic requirements:
 ## 🤝 Créditos e Agradecimentos / Credits and Acknowledgments
 
 Este projeto utiliza o incrível **Plugin FMOD para ETS-2/ATS**, criado por [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
-O Gerenciador de Motores atua como uma interface visual (GUI) avançada para facilitar a configuração e o uso do plugin desenvolvido por ele.
+O Gerenciador de Áudio atua como uma interface visual (GUI) avançada para facilitar a configuração e o uso do plugin desenvolvido por ele.
 
 *This project utilizes the amazing **FMOD Plugin for ETS-2/ATS**, created by [dariowouters](https://github.com/dariowouters/ts-fmod-plugin?tab=readme-ov-file). 
 The Engine Manager acts as an advanced graphical user interface (GUI) to make configuring and using his plugin much easier.*
